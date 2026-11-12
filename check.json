@@ -1,0 +1,10 @@
+{
+  "command": [
+    "node",
+    "app.mjs"
+  ],
+  "expected": {
+    "signatures": 3,
+    "blankPages": 2
+  }
+}
